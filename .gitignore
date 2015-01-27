@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+gretty-jersey-app.iml
+gretty-jersey-app/gretty-jersey-app-gretty-jersey-app.iml
+gretty-jersey-swagger-app.iml
